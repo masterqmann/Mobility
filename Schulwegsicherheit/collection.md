@@ -29,4 +29,4 @@
 
 ## Berlin
 
-* 2024-03-7 [Verkehrssituation an der und um die Grundschule am Brandenburger Tor]
+* 2024-03-7 [Verkehrssituation an der und um die Grundschule am Brandenburger Tor](https://github.com/masterqmann/Mobility/blob/main/ressources/20240317_Verkehrssituation%20-%20Grundschule%20am%20Brandenburger%20Tor.pdf)
