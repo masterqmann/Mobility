@@ -14,9 +14,17 @@
 * 2024-03-10 [Städtetag will gegen Elterntaxis vorgehen - zeit.de](https://www.zeit.de/mobilitaet/2024-03/elterntaxi-staedtetag-kommunen-reform-strassenverkehrsgesetz)
 * 2022-02-18 [Datenprojekt zur Schulwegsicherheit in Friedrichshain-Kreuzberg](https://www.berlin.de/ba-friedrichshain-kreuzberg/aktuelles/pressemitteilungen/2022/pressemitteilung.1178111.php)
 
+
 # Solutions
 
+## Ideas
+* [Aktionstage "Zu Fuß zur Schule"](https://www.zu-fuss-zur-schule.de/)
 * [Augsburg - Stempelaktion „Autofrei zur Schule“](https://www.augsburg.de/buergerservice-rathaus/verkehr/fair-im-verkehr/elterntaxi)
+
+### BiciBus Concept
+* [Freitags mit dem BICIBUS in die Zukunft - VCD Nord](https://nord.vcd.org/themen/bicibus)
+* [Mit Freunden zur Schule radeln: Der Fahrradbus erobert Barcelona - zdf.de](https://www.zdf.de/nachrichten/panorama/fahrradbus-barcelona-verkehr-umwelt-100.html)
+* [VCD Laufbus: Schulbus auf Füßen - eine organisierte Laufgemeinschaft ](https://www.vcd.org/artikel/vcd-laufbus-zusammen-sicher-zur-schule-gehen/)
 
 ## Data Projects
 * [Schulwegsicherheit in Xhain - Sichere Schulwege für alle Schüler*innen im Bezirk](https://fixmyberlin.de/schulwegsicherheit/friedrichshain-kreuzberg)
